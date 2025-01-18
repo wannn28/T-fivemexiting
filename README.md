@@ -25,4 +25,3 @@ Config.skin = "illenium-appearance" -- you can set this [ fivem-appearance, ille
 Config.Webhook = "https://ptb.discord.com/api/webhooks/1317323774009409566/wFRJ-HBSIrQIX752Ayr5KfyKGPoMIKtNFQNrv2FJPuuv0HYpxAjNDPedPv2A9TsqHiDv"
 ```
 **Support Clothes : Fivem-appearance, illenium-appearance, qb-clothing **
-f
