@@ -2,7 +2,7 @@ local show3DText = true
 
 
 
-RegisterNetEvent('esx:onPlayerLogout', function (xPlayer)
+RegisterNetEvent('esx:playerLoaded', function (xPlayer)
     Wait(2000)
     TriggerServerEvent('texiting:server:getskin')
 end)
